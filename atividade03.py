@@ -8,7 +8,7 @@ sexo = input("Informe seu Sexo F-Feminino ou M-Masculino ou N-não definido:").u
 #condicional de verificação e exibição
 
 if sexo == "F":
-    print("Sexo Feminino")
+    print("Sexo Feminino ")
 
 elif sexo =="M":
     print("Sexo Masculino")
