@@ -1,7 +1,7 @@
 #Faça um Programa que peça dois números e imprima o maior deles.
 
 
-#entrada de dados 
+#entrada  de dados 
 numero1 = int(input('por favor inforome o primeiro valor:'))
 numero2 = int(input('por favor informe o segundo valor:'))
 
